@@ -16,7 +16,6 @@ export class ImageDB {
             {url: "assets/img/2018-11-03.jpg", index: 0, caption: "..." },
             {url: "assets/img/bg-space.jpg", index: 0, caption: "..." },
             {url: "assets/img/CS_icon_with_box.png", index: 0, caption: "..." },
-            {url: "assets/img/fbi-gays-neuer-1280.jpg", index: 0, caption: "..." },
             {url: "assets/img/CS_logo_1x1.jpg", index: 0, caption: "..." },
             {url: "assets/img/IMG_2805.JPG", index: 0, caption: "..." }
         ];

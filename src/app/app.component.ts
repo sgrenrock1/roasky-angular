@@ -14,8 +14,7 @@ export class AppComponent {
   private createTitle () {
     var titles = [
       "Skylar Roasky",
-      "skylarroasky.com",
-      "Cute Animals and Such"
+      "skylarroasky.com"
     ];
     var min = 0;
     var max = titles.length;
